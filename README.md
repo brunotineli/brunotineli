@@ -4,9 +4,10 @@
 -->
 
 I'm Bruno Tineli and welcome to my GitHub  
+<p>
 How to reach me: 
-<a href="mailto:bruno.tineli@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px" alt="Gmail"></a>
-<a href="https://https://www.linkedin.com/in/bruno-tineli/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="20px" alt="linkedin"></a>
+<p><a href="mailto:bruno.tineli@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="30px" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/bruno-tineli/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px" alt="linkedin"></a>
 <br/>
 
 <h2 align="center">Github Statistics</h2>
