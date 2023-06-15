@@ -1,13 +1,12 @@
-### Hi there 👋
+### Hey there 👋
 <!--
 **brunotineli/brunotineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Bruno Tineli and welcome to my GitHub  
+I'm Bruno Tineli and welcome to my GitHub.  
 <p>
 How to reach me: 
-<p><a href="mailto:bruno.tineli@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="30px" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/bruno-tineli/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px" alt="linkedin"></a>
+<a href="https://linktr.ee/brunotineli">linktr.ee</a>
 <br/>
 
 <h2 align="center">Github Statistics</h2>
